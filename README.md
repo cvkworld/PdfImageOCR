@@ -1,6 +1,6 @@
 # PdfImageOCR
 **Requirement:**
-Pytorch
+Pytorch<br/>
 MMOCR
 MMDetection
 CUDA
